@@ -1,0 +1,71 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+        android:width="444dp"
+        android:height="246dp"
+        android:viewportWidth="444.0"
+        android:viewportHeight="246.0">
+    <group android:name="group">
+    <path
+        android:name="step_1"
+        android:pathData="M22,224m-20,0a20,20 0,1 1,40 0a20,20 0,1 1,-40 0"
+        android:strokeColor="#979797"
+        android:fillColor="#7ED321"
+        android:fillAlpha="0"
+        android:strokeWidth="3"/>
+    <path
+        android:name="step_2"
+        android:pathData="M42,144m-20,0a20,20 0,1 1,40 0a20,20 0,1 1,-40 0"
+        android:strokeColor="#979797"
+        android:fillColor="#F8E81C"
+        android:fillAlpha="0"
+        android:strokeWidth="3"/>
+    <path
+        android:name="step_3"
+        android:pathData="M82,82m-20,0a20,20 0,1 1,40 0a20,20 0,1 1,-40 0"
+        android:strokeColor="#979797"
+        android:fillColor="#F8E81C"
+        android:fillAlpha="0"
+        android:strokeWidth="3"/>
+    <path
+        android:name="step_4"
+        android:pathData="M143,42m-20,0a20,20 0,1 1,40 0a20,20 0,1 1,-40 0"
+        android:strokeColor="#979797"
+        android:fillColor="#F6A623"
+        android:fillAlpha="0"
+        android:strokeWidth="3"/>
+    <path
+        android:name="step_5"
+        android:pathData="M219,22m-20,0a20,20 0,1 1,40 0a20,20 0,1 1,-40 0"
+        android:strokeColor="#979797"
+        android:fillColor="#F6A623"
+        android:fillAlpha="0"
+        android:strokeWidth="3"/>
+    <path
+        android:name="step_6"
+        android:pathData="M295,42m-20,0a20,20 0,1 1,40 0a20,20 0,1 1,-40 0"
+        android:strokeColor="#979797"
+        android:fillColor="#F6A623"
+        android:fillAlpha="0"
+        android:strokeWidth="3"/>
+    <path
+        android:name="step_7"
+        android:pathData="M362,82m-20,0a20,20 0,1 1,40 0a20,20 0,1 1,-40 0"
+        android:strokeColor="#979797"
+        android:fillColor="#D0011B"
+        android:fillAlpha="0"
+        android:strokeWidth="3"/>
+    <path
+        android:name="step_8"
+        android:pathData="M402,142m-20,0a20,20 0,1 1,40 0a20,20 0,1 1,-40 0"
+        android:strokeColor="#979797"
+        android:fillColor="#D0011B"
+        android:fillAlpha="0"
+        android:strokeWidth="3"/>
+    <path
+        android:name="step_9"
+        android:pathData="M422,222m-20,0a20,20 0,1 1,40 0a20,20 0,1 1,-40 0"
+        android:strokeColor="#979797"
+        android:fillColor="#D0011B"
+        android:fillAlpha="0"
+        android:strokeWidth="3"/>
+    </group>
+</vector>

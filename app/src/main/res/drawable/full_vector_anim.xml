@@ -1,0 +1,96 @@
+<animated-vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt">
+    <aapt:attr name="android:drawable">
+        <vector
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:width="444dp"
+            android:height="246dp"
+            android:viewportWidth="444"
+            android:viewportHeight="246"
+            android:alpha="1">
+            <group android:name="group">
+                <path
+                    android:name="path"
+                    android:pathData="M 22 204 A 20,20,0,1,0,22,244 A 20,20,0,1,0,22,204 Z"
+                    android:fillColor="#7ed321"
+                    android:strokeColor="#979797"
+                    android:strokeWidth="3"/>
+                <path
+                    android:name="path_1"
+                    android:pathData="M 42 124 A 20,20,0,1,0,42,164 A 20,20,0,1,0,42,124 Z"
+                    android:fillColor="#f8e81c"
+                    android:strokeColor="#979797"
+                    android:strokeWidth="3"/>
+                <path
+                    android:name="path_2"
+                    android:pathData="M 82 62 A 20,20,0,1,0,82,102 A 20,20,0,1,0,82,62 Z"
+                    android:fillColor="#f8e81c"
+                    android:strokeColor="#979797"
+                    android:strokeWidth="3"/>
+                <path
+                    android:name="path_3"
+                    android:pathData="M 143 22 A 20,20,0,1,0,143,62 A 20,20,0,1,0,143,22 Z"
+                    android:fillColor="#f6a623"
+                    android:strokeColor="#979797"
+                    android:strokeWidth="3"/>
+                <path
+                    android:name="path_4"
+                    android:pathData="M 219 2 A 20,20,0,1,0,219,42 A 20,20,0,1,0,219,2 Z"
+                    android:fillColor="#f6a623"
+                    android:strokeColor="#979797"
+                    android:strokeWidth="3"/>
+                <path
+                    android:name="path_5"
+                    android:pathData="M 295 22 A 20,20,0,1,0,295,62 A 20,20,0,1,0,295,22 Z"
+                    android:fillColor="#f6a623"
+                    android:strokeColor="#979797"
+                    android:strokeWidth="3"/>
+                <path
+                    android:name="path_6"
+                    android:pathData="M 362 62 A 20,20,0,1,0,362,102 A 20,20,0,1,0,362,62 Z"
+                    android:fillColor="#d0011b"
+                    android:strokeColor="#979797"
+                    android:strokeWidth="3"/>
+                <path
+                    android:name="path_7"
+                    android:pathData="M 402 122 A 20,20,0,1,0,402,162 A 20,20,0,1,0,402,122 Z"
+                    android:fillColor="#d0011b"
+                    android:strokeColor="#979797"
+                    android:strokeWidth="3"/>
+                <path
+                    android:name="path_8"
+                    android:pathData="M 422 202 A 20,20,0,1,0,422,242 A 20,20,0,1,0,422,202 Z"
+                    android:fillAlpha="0"
+                    android:strokeAlpha="0"
+                    android:fillColor="#d0011b"
+                    android:strokeColor="#979797"
+                    android:strokeWidth="3"/>
+            </group>
+        </vector>
+    </aapt:attr>
+    <target android:name="path_8">
+        <aapt:attr name="android:animation">
+            <set xmlns:android="http://schemas.android.com/apk/res/android">
+            <objectAnimator
+                xmlns:android="http://schemas.android.com/apk/res/android"
+                android:name="path_8"
+                android:propertyName="fillAlpha"
+                android:duration="250"
+                android:valueFrom="0"
+                android:valueTo="1"
+                android:valueType="floatType"
+                android:interpolator="@android:anim/accelerate_decelerate_interpolator"/>
+            <objectAnimator
+                xmlns:android="http://schemas.android.com/apk/res/android"
+                android:name="path_8"
+                android:propertyName="strokeAlpha"
+                android:duration="50"
+                android:valueFrom="0"
+                android:valueTo="1"
+                android:valueType="floatType"
+                android:interpolator="@android:anim/accelerate_decelerate_interpolator"/>
+            </set>
+        </aapt:attr>
+    </target>
+</animated-vector>

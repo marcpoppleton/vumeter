@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android"
+     android:ordering="sequentially">
+    <set>
+        <objectAnimator
+            android:name="step_1"
+            android:propertyName="pathData"
+            android:duration="250"
+            android:valueFrom=""
+            android:valueTo="M22,224m-20,0a20,20 0,1 1,40 0a20,20 0,1 1,-40 0"
+            android:valueType="floatType"
+            android:interpolator="@android:anim/accelerate_decelerate_interpolator"/>
+    </set>
+    <set>
+    <objectAnimator
+        android:name="step_1"
+        android:propertyName="fillAlpha"
+        android:duration="250"
+        android:valueFrom="0"
+        android:valueTo="1"
+        android:valueType="floatType"
+        android:interpolator="@android:anim/accelerate_decelerate_interpolator"/>
+    <objectAnimator
+        android:name="step_1"
+        android:propertyName="strokeAlpha"
+        android:duration="50"
+        android:valueFrom="0"
+        android:valueTo="1"
+        android:valueType="floatType"
+        android:interpolator="@android:anim/accelerate_decelerate_interpolator"/>
+    </set>
+</set>
