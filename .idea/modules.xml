@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/vumeter.iml" filepath="$PROJECT_DIR$/vumeter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vumeter-lib/vumeter-lib.iml" filepath="$PROJECT_DIR$/vumeter-lib/vumeter-lib.iml" />
     </modules>
   </component>
 </project>

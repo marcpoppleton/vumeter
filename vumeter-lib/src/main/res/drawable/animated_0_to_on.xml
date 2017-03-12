@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android"
+                 android:drawable="@drawable/levels_all_off">
+    <target
+        android:name="level_0"
+        android:animation="@animator/anim_level_off_to_on"/>
+</animated-vector>

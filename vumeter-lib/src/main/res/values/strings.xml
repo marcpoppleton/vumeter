@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VuMeter</string>
+    <integer name="animation_duration">125</integer>
+</resources>

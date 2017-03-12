@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorFillLevelOn">#00C700</color>
+    <color name="colorFillLevelOff">#D8D8D8</color>
+    <color name="colorStroke">#979797</color>
+</resources>
